@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/andro/Desktop/Code/school42/main_education/decimal",
+      "program": "/Users/andro/Desktop/Code/school42/main_education/decimal/build/Debug/outDebug"
+    }
+  ]
+}
