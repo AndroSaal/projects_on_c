@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "main.h": "c",
+        "string.h": "c",
+        "regex": "c",
+        "s21_grep.h": "c",
+        "__locale": "c",
+        "getopt.h": "c"
+    }
+}
